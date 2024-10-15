@@ -1,4 +1,4 @@
-# Programa que demana la data de neixament.
+#Programa que demana la data de neixament.#
 
 dia=int(input("Dia?"))
 mes=int(input("Mes?"))
@@ -12,7 +12,7 @@ current_second = datetime.now().second
 current_minute = datetime.now().minute
 current_hour = datetime.now().hour
 
-current_dat = datetime.now().day
+current_date = datetime.now().day
 current_month = datetime.now().hour
 current_year = datetime.now().year
 
@@ -30,4 +30,6 @@ if dia>31 or dia<1:
 
 #Procesar les dades
 #todo calcular edat
-print("Programa Finalitzat")
+
+if datetime.now
+    print("Programa Finalitzat")
