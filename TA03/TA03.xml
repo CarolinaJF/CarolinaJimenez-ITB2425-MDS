@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <root>
-     <row>
+     <Incidecia>
          <Marca_de_temps>07/10/2024 8:50:47</Marca_de_temps>
          <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -13,8 +13,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>WLD-004</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>No funciona el puerto USB</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio no interrumpido a pesar de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidecia>
+     <Incidecia>
          <Marca_de_temps>07/10/2024 8:50:52</Marca_de_temps>
          <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -27,8 +27,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>253800181501</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>Mi monitor se rompiò por un accidente.</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidecia>
+     <Incidecia>
          <Marca_de_temps>07/10/2024 8:51:23</Marca_de_temps>
          <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -41,8 +41,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>WLD-023</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio parcialmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidecia>
+     <Incidecia>
          <Marca_de_temps>09/10/2024 8:02:45</Marca_de_temps>
          <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -55,8 +55,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>WLD-027</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>Classroom no me deja subir las tareas.</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidecia>
+     <Incidecia>
          <Marca_de_temps>09/10/2024 8:04:14</Marca_de_temps>
          <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -69,8 +69,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>254-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio parcialmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidecia>
+     <Incidecia>
          <Marca_de_temps>09/10/2024 8:07:02</Marca_de_temps>
          <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -83,8 +83,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>215-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>el cable de red no funciona, si enchufo el de mi compañero sí funciona</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidecia>
+     <Incidecia>
          <Marca_de_temps>09/10/2024 8:08:25</Marca_de_temps>
          <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -97,8 +97,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>215-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>Las aplicaciones de mi ordenador no se abren.</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidecia>
+     <Incidecia>
          <Marca_de_temps>09/10/2024 8:10:18</Marca_de_temps>
          <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -111,8 +111,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>566-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio parcialmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidecia>
+     <Incidecia>
          <Marca_de_temps>09/10/2024 8:11:57</Marca_de_temps>
          <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -125,8 +125,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>326-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>El proyector se ha caido.</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidecia>
+     <Incidencia>
          <Marca_de_temps>09/10/2024 8:13:05</Marca_de_temps>
          <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -139,8 +139,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>568-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>No funciona el material audiovisual</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidencia>
+     <Incidencia>
          <Marca_de_temps>09/10/2024 8:24:45</Marca_de_temps>
          <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -153,8 +153,8 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>546-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>No puedo instalar firefox</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio parcialmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
-     <row>
+     </Incidencia>
+     <Incidencia>
          <Marca_de_temps>09/10/2024 8:40:27</Marca_de_temps>
          <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
          <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
@@ -167,6 +167,6 @@
          <EQUIPOS_y_o_SERVICIOS_AFECTADOS>253609416947</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
          <DESCRIPCIÓN_BREVE>La pantalla no funciona</DESCRIPCIÓN_BREVE>
          <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
-     </row>
+     </Incidencia>
  </root>
 
