@@ -106,7 +106,7 @@ def extraer_incidencias(xml_file):
 
 
 # Ruta del archivo XML
-ruta_archivo_xml ='TA03.xml'
+ruta_archivo_xml ='Incidencias.xml'
 
 # Llama a la función con la ruta a tu archivo XML
 extraer_incidencias(ruta_archivo_xml)

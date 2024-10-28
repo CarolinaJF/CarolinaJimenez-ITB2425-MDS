@@ -28,7 +28,7 @@ def extraer_incidencias(xml_file):
 
 
 # Ruta del archivo XML
-ruta_archivo_xml ='TA03.xml'  # Cambia esto por la ruta de tu archivo
+ruta_archivo_xml ='Incidencias.xml'  # Cambia esto por la ruta de tu archivo
 
 
 # Llama a la función y obtiene la lista de incidencias
