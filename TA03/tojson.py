@@ -36,7 +36,7 @@ def extraer_incidencias(xml_file, json_file):
    for incidencia in root.findall('.//Incidencia'):
        # Extraer datos de la incidencia
        incidencia_data = {
-           "codigo_estudiante": incidencia.find('Código_de_estudiante').text,
+           "código_estudiante": incidencia.find('Código_de_estudiante').text,
            "aula": incidencia.find('Aula').text,
            "fecha": incidencia.find('Fecha_en_la_que_ocurrió_por_primera_vez').text,
            "tipo_incidencia": incidencia.find('Tipo_de_incidencia').text,
@@ -50,13 +50,13 @@ def extraer_incidencias(xml_file, json_file):
 
 
        # Validar las condiciones
-       codigo_valido = len(incidencia_data["codigo_estudiante"]) == 9
+       código_valido = len(incidencia_data["código_estudiante"]) == 9
        aula_valida = 100 <= int(incidencia_data["aula"]) <= 399
        fecha_valida = validar_fecha(incidencia_data["fecha"]) and inicio_periodo <= datetime.strptime(
            incidencia_data["fecha"], "%d/%m/%Y").date() <= fin_periodo
 
 
-       if codigo_valido and aula_valida and fecha_valida:
+       if código_valido and aula_valida and fecha_valida:
            lista_incidencias_validas.append(incidencia_data)
 
 
@@ -92,17 +92,20 @@ def extraer_incidencias(xml_file, json_file):
 
    # Preparar los resultados para exportar
    resultados = {
+       "fecha_de_creación": datetime.now().isoformat(), # Añadir el timestamp aquí
        "total_incidencias_encontradas": len(lista_todas_incidencias),
        "total_incidencias_validas": total_incidencias_validas,
        "porcentajes_tipo_incidencias": porcentajes_tipo,
        "porcentajes_detalles_incidencias": porcentajes_detalles,
-       "porcentajes_niveles_urgencia": porcentajes_niveles
+       "porcentajes_niveles_urgencia": porcentajes_niveles,
+
    }
 
 
    # Guardar resultados en un archivo JSON
-   with open(json_file, 'w', encoding='utf-8') as f:
+   with open(json_file, 'a', encoding='utf-8') as f:
        json.dump(resultados, f, ensure_ascii=False, indent=4)
+       f.write('\n') #Escribir una nueva línea para separar cada entrada
 
 
    # Imprimir resultados en la consola
