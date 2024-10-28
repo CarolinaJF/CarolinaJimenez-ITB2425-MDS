@@ -4,7 +4,7 @@ from xml.dom import minidom
 
 
 # Cambia la ruta a tu archivo CSV aquí
-csv_file = 'TA03.csv'  # Asegúrate de que esta ruta sea correcta
+csv_file = 'Incidencias.csv'  # Asegúrate de que esta ruta sea correcta
 
 
 # Crear la raíz del documento XML
@@ -40,7 +40,7 @@ try:
 
 
    # Guardar el archivo XML
-   xml_file = 'TA03.xml'
+   xml_file = 'Incidencias.xml'
    with open(xml_file, 'w', encoding='utf-8') as f:
        f.write(pretty_xml)
 
